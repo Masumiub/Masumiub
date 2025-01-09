@@ -26,7 +26,5 @@ Skills: PHP / REACT / NEXT JS / JAVA / PYTHON / C++ / JS / HTML / CSS / WORDPRES
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Masumiub/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/Masumiub)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Masumiub)  
 
