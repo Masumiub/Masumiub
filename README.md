@@ -17,7 +17,7 @@ I’m actively seeking opportunities as a Junior Frontend Developer or React.js 
 
 - #### Basic Programming: PHP, C++, Java, Python
 
-- 🔭 I’m currently working on [https://heymahbub.com/ ](https://glowbyyana-690b6.web.app/)
+- 🔭 I’m currently working on [https://glowbyyana-690b6.web.app/]
 - 🌱 I’m currently learning React JS & Next JS
 
 
