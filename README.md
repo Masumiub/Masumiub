@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Md Masum Musfique
 #### I am Full Stack Web Developer
-![I am Full Stack Web Developer](https://media.licdn.com/dms/image/v2/D5616AQHcK9nE0UnsZg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734445241455?e=1741219200&v=beta&t=nZqGMxDrgWcHqvXdZ82ep-8PPGSKNZo0pN5w57_qfYE)
+![I am Full Stack Web Developer]
 
 A highly motivated and enthusiastic web developer who loves working with HTML, CSS, JavaScript, and PHP to design, develop, and maintain dynamic and user-friendly websites. 
 
