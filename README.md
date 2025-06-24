@@ -1,6 +1,8 @@
 # Hi there 👋, This is Md Masum Musfique
 ## MERN Stack Developer | Tech Enthusiast | Proactive Learner
 
+![Image](https://github.com/user-attachments/assets/de20c1fd-35e6-4d21-8d23-7d02a2916f36)
+
 Hi! I'm a driven and detail-oriented Frontend Developer with hands-on experience in building responsive and dynamic web applications using React.js, Tailwind CSS, DaisyUI, and JavaScript. I’m passionate about creating clean, user-friendly interfaces that deliver great user experiences.
 
 I bring a solid foundation in HTML, CSS, and modern JavaScript frameworks, along with backend understanding using Node.js, Express.js, and MongoDB. I'm also comfortable working with tools like Firebase Authentication, GitHub, and Next.js, and have a working knowledge of PHP, C++, Java, and Python.
