@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Md Masum Musfique
-#### I am Full Stack Web Developer
-![I am Full Stack Web Developer]
+#### MERN Stack Developer | Tech Enthusiast | Proactive Learner
+
 
 A highly motivated and enthusiastic web developer who loves working with HTML, CSS, JavaScript, and PHP to design, develop, and maintain dynamic and user-friendly websites. 
 
