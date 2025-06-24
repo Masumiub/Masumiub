@@ -1,5 +1,5 @@
-### Hi there 👋, This is Md Masum Musfique
-#### MERN Stack Developer | Tech Enthusiast | Proactive Learner
+# Hi there 👋, This is Md Masum Musfique
+## MERN Stack Developer | Tech Enthusiast | Proactive Learner
 
 Hi! I'm a driven and detail-oriented Frontend Developer with hands-on experience in building responsive and dynamic web applications using React.js, Tailwind CSS, DaisyUI, and JavaScript. I’m passionate about creating clean, user-friendly interfaces that deliver great user experiences.
 
@@ -9,13 +9,13 @@ I’m actively seeking opportunities as a Junior Frontend Developer or React.js 
 
 ### 🔧 Tech Stack Highlights:
 
-- # Frontend: HTML, CSS, Tailwind CSS, DaisyUI, Bootstrap, JavaScript, React.js, Next.js
+- #### Frontend: HTML, CSS, Tailwind CSS, DaisyUI, Bootstrap, JavaScript, React.js, Next.js
 
-- # Backend: Node.js, Express.js, MongoDB
+- #### Backend: Node.js, Express.js, MongoDB
 
-- # Tools & Platforms: Firebase Auth, GitHub, Vercel, Netlify, Figma
+- #### Tools & Platforms: Firebase Auth, GitHub, Vercel, Netlify, Figma
 
-- # Basic Programming: PHP, C++, Java, Python
+- #### Basic Programming: PHP, C++, Java, Python
 
 - 🔭 I’m currently working on [https://heymahbub.com/ ](https://glowbyyana-690b6.web.app/)
 - 🌱 I’m currently learning React JS & Next JS
