@@ -8,10 +8,10 @@ I am passionate about creating intuitive and visually appealing user experiences
 
 I am eager to join a dynamic team where I can continuously grow my skills and make a positive impact on the development of cutting-edge web applications.
 
-Skills: PHP / REACT / NEXT JS / JAVA / PYTHON / C++ / JS / HTML / CSS / WORDPRESS
+Skills: REACT JS / NEXT JS / JAVA / PYTHON / C++ / JS / HTML / CSS / WORDPRESS / PHP
 
 - 🔭 I’m currently working on https://heymahbub.com/ 
-- 🌱 I’m currently learning NEXT JS 
+- 🌱 I’m currently learning React JS 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Masumiub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/musfique-77-masum/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://eprokashoni.com/masumBio/)  
