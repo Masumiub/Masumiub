@@ -7,15 +7,15 @@ I bring a solid foundation in HTML, CSS, and modern JavaScript frameworks, along
 
 I’m actively seeking opportunities as a Junior Frontend Developer or React.js Developer, where I can grow, contribute to real-world projects, and be part of a collaborative team.
 
-###🔧 Tech Stack Highlights:
+### 🔧 Tech Stack Highlights:
 
-- Frontend: HTML, CSS, Tailwind CSS, DaisyUI, Bootstrap, JavaScript, React.js, Next.js
+- # Frontend: HTML, CSS, Tailwind CSS, DaisyUI, Bootstrap, JavaScript, React.js, Next.js
 
-- Backend: Node.js, Express.js, MongoDB
+- # Backend: Node.js, Express.js, MongoDB
 
-- Tools & Platforms: Firebase Auth, GitHub, Vercel, Netlify
+- # Tools & Platforms: Firebase Auth, GitHub, Vercel, Netlify, Figma
 
-- Basic Programming: PHP, C++, Java, Python
+- # Basic Programming: PHP, C++, Java, Python
 
 - 🔭 I’m currently working on [https://heymahbub.com/ ](https://glowbyyana-690b6.web.app/)
 - 🌱 I’m currently learning React JS & Next JS
