@@ -19,7 +19,7 @@ I’m actively seeking opportunities as a Junior Frontend Developer or React.js 
 
 - #### Basic Programming: PHP, C++, Java, Python
 
-<hr/>
+
 ### 🔭 I’m currently working on a E-Commerce Website [https://glowbyyana-690b6.web.app/]
 ### 🌱 I’m currently learning React JS & Next JS
 ### 📫 How to reach me **musfiquemasum@gmail.com**
