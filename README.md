@@ -11,13 +11,6 @@ I’m actively seeking opportunities as a Junior Frontend Developer or React.js 
 
 ## 🔧 Tech Stack Highlights:
 
-<!--- #### Frontend: HTML, CSS, Tailwind CSS, DaisyUI, Bootstrap, JavaScript, React.js, Next.js
-
-- #### Backend: Node.js, Express.js, MongoDB
-
-- #### Tools & Platforms: Firebase Auth, GitHub, Vercel, Netlify, Figma
-
-- #### Basic Programming: PHP, C++, Java, Python -->
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
