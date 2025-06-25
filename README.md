@@ -9,7 +9,7 @@ I bring a solid foundation in HTML, CSS, and modern JavaScript frameworks, along
 
 I’m actively seeking opportunities as a Junior Frontend Developer or React.js Developer, where I can grow, contribute to real-world projects, and be part of a collaborative team.
 
-### 🔧 Tech Stack Highlights:
+## 🔧 Tech Stack Highlights:
 
 - #### Frontend: HTML, CSS, Tailwind CSS, DaisyUI, Bootstrap, JavaScript, React.js, Next.js
 
