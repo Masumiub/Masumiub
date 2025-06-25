@@ -19,12 +19,12 @@ I’m actively seeking opportunities as a Junior Frontend Developer or React.js 
 
 - #### Basic Programming: PHP, C++, Java, Python
 
-
+## 
 ### 🔭 I’m currently working on a E-Commerce Website [https://glowbyyana-690b6.web.app/]
 ### 🌱 I’m currently learning React JS & Next JS
 ### 📫 How to reach me **musfiquemasum@gmail.com**
 
-
+## 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -32,7 +32,7 @@ I’m actively seeking opportunities as a Junior Frontend Developer or React.js 
 <a href="https://www.youtube.com/@masummusfique4253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@masummusfique4253" height="30" width="40" /></a>
 
 <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Masumiub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/musfique-77-masum/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://eprokashoni.com/masumBio/) -->
-
+## Github Stats
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Masumiub)](https://github.com/ryo-ma/github-profile-trophy)
