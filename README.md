@@ -12,7 +12,7 @@ I’m actively seeking opportunities as a Junior Frontend Developer or React.js 
 ## 🔧 Tech Stack Highlights:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,c++,php,java" height="60" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,c,php,java" height="60" alt="Tech Stack Icons"/>
 </p>
 
 <!-- <p align="left"> 
