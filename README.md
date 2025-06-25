@@ -37,7 +37,10 @@ I’m actively seeking opportunities as a Junior Frontend Developer or React.js 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Masumiub)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masumiub)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masumiub)](https://github.com/anuraghazra/github-readme-stats)-->
+
+<h3 align="left">Used Programming Language:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaber4770&show_icons=true&locale=en&layout=compact" alt="jaber4770" /></p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Masumiub&show_icons=true)  
 
