@@ -19,8 +19,10 @@ I’m actively seeking opportunities as a Junior Frontend Developer or React.js 
 
 - #### Basic Programming: PHP, C++, Java, Python
 
-### 🔭 I’m currently working on [https://glowbyyana-690b6.web.app/]
+
+### 🔭 I’m currently working on a E-Commerce Website [https://glowbyyana-690b6.web.app/]
 ### 🌱 I’m currently learning React JS & Next JS
+### 📫 How to reach me **musfiquemasum@gmail.com**
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Masumiub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/musfique-77-masum/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://eprokashoni.com/masumBio/)  
