@@ -7,7 +7,7 @@ Hi! I'm a driven and detail-oriented Frontend Developer with hands-on experience
 
 I bring a solid foundation in HTML, CSS, and modern JavaScript frameworks, along with backend understanding using Node.js, Express.js, and MongoDB. I'm also comfortable working with tools like Firebase Authentication, GitHub, and Next.js, and have a working knowledge of PHP, C++, Java, and Python.
 
-I’m actively seeking opportunities as a Junior Frontend Developer or React.js Developer, where I can grow, contribute to real-world projects, and be part of a collaborative team.
+
 
 ## 🔧 Tech Stack Highlights:
 
