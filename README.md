@@ -19,20 +19,20 @@ I bring a solid foundation in HTML, CSS, and modern JavaScript frameworks, along
 ### Online Study Room 
 A collaborative web application built to enhance online group study experiences.
 #### Key Features: 
-- • Engineered assignment creation, grading, and peer-review systems used in a live test group of 60+ students
-- • Reduced page load time by 30% through performance optimization and code-splitting with lazy loading
-- • Enabled real-time submission tracking and revision features via Realtime Database
+- Engineered assignment creation, grading, and peer-review systems used in a live test group of 60+ students
+- Reduced page load time by 30% through performance optimization and code-splitting with lazy loading
+- Enabled real-time submission tracking and revision features via Realtime Database
 
 Tech Stack: React.js, Firebase Auth, Express.js, MongoDB.
 
 ###  FavFreelancer:
 A full-stack web application that connects freelancers with tasks, allowing users to add, manage, and bid on freelance projects in real-time.
 #### Key Features: 
-Key Features:
-- • Designed and developed a freelance task marketplace with real-time bidding and project filtering, improving task discoverability by 40%
-- • Implemented full CRUD functionality for job posts and bid tracking used by 50+ demo users
-- • Integrated Firebase Authentication and built custom dashboards for freelancers and clients
-- • Enhanced user experience with modular UI components, boosting usability and reducing onboarding confusion
+
+- Designed and developed a freelance task marketplace with real-time bidding and project filtering, improving task discoverability by 40%
+- Implemented full CRUD functionality for job posts and bid tracking used by 50+ demo users
+- Integrated Firebase Authentication and built custom dashboards for freelancers and clients
+- Enhanced user experience with modular UI components, boosting usability and reducing onboarding confusion
 
 Tech Stack: React.JS, Express.JS, Firebase.
 
