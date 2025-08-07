@@ -45,7 +45,7 @@ Tech Stack: React.JS, Express.JS, Firebase.
 <p align="left">
 
 <a href="https://www.linkedin.com/in/musfique-77-masum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musfique-77-masum" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@masummusfique4253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@masummusfique4253" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@masummusfique4253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="@masummusfique4253" height="30" width="40" /></a>
 
 
 ## Github Stats
