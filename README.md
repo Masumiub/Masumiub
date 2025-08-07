@@ -87,11 +87,10 @@ Live Link : https://favfreelancer-client.web.app/ <br/>
 <p align="center">
   <a href="https://github.com/Masumiub">
     <img src="https://streak-stats.demolab.com?user=Masumiub&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&fire=FF6F00&ring=0ABAB5&currStreakLabel=0ABAB5&cache_seconds=86400"
-         onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuapp.com?user=MRaysa&theme=radical&hide_border=true&background=00000000';" 
+         onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuapp.com?user=Masumiub&theme=radical&hide_border=true&background=00000000';" 
          alt="GitHub Streak" />
   </a>
 </p>
-
 
 <!-- Activity Graph with Fallback -->
 <p align="center">
