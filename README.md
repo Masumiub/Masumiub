@@ -31,6 +31,8 @@ A collaborative web application built to enhance online group study experiences.
 - Enabled real-time submission tracking and revision features via Realtime Database
 
 Tech Stack: React.js, Firebase Auth, Express.js, MongoDB.
+Github: https://github.com/Masumiub/OnlineStudyRoom-Client
+Live Link: https://onlinestudyroom-all.web.app
 
 ###  FavFreelancer:
 A full-stack web application that connects freelancers with tasks, allowing users to add, manage, and bid on freelance projects in real-time.
@@ -42,6 +44,9 @@ A full-stack web application that connects freelancers with tasks, allowing user
 - Enhanced user experience with modular UI components, boosting usability and reducing onboarding confusion
 
 Tech Stack: React.JS, Express.JS, Firebase.
+
+Github: https://github.com/Masumiub/favFreelancer-Client
+Live Link : https://favfreelancer-client.web.app/
 
 ### 🔭 I’m currently working on a E-Commerce Website [https://glowbyyana-690b6.web.app/]
 ### 🌱 I’m currently learning React JS & Next JS
