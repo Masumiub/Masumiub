@@ -15,6 +15,13 @@ I bring a solid foundation in HTML, CSS, and modern JavaScript frameworks, along
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,c,php,java" height="60" alt="Tech Stack Icons"/>
 </p>
 
+## 📫 How to reach me:
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musfiquemasum@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musfique-77-masum/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MusfiqueMd77)
+
+
+
 ## 🖥️ Notable Projects and technologies used:
 ### Online Study Room 
 A collaborative web application built to enhance online group study experiences.
@@ -44,10 +51,6 @@ Tech Stack: React.JS, Express.JS, Firebase.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-## 📫 How to reach me:
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musfiquemasum@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musfique-77-masum/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MusfiqueMd77)
 
 
 ## Github Stats
