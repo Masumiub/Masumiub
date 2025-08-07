@@ -12,7 +12,7 @@ I bring a solid foundation in HTML, CSS, and modern JavaScript frameworks, along
 ## 🔧 Tech Stack Highlights:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,c,php,java" height="60" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next,nodejs,express,mongodb,firebase,c,php,java" height="60" alt="Tech Stack Icons"/>
 </p>
 
 ## 📫 How to reach me:
