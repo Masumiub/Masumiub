@@ -69,6 +69,9 @@ Live Link : https://favfreelancer-client.web.app/ <br/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Masumiub&show_icons=true)  -->
 
 <!-- Dynamic Stats Grid with Cache Busting -->
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Masumiub&theme=dark" alt="GitHub Streak" /></a>
+
 <p align="center">
   <a href="https://github.com/Masumiub">
     <!-- Main Stats with forced cache refresh -->
