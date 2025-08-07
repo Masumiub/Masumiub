@@ -73,6 +73,16 @@ Live Link : https://favfreelancer-client.web.app/ <br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Masumiub&show_icons=true)  
 
+
+<!-- Activity Graph with Fallback -->
+<p align="center">
+  <a href="https://github.com/MRaysa">
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MRaysa&theme=react-dark&bg_color=00000000&hide_border=true&color=0ABAB5&line=FF6F00&point=FFFFFF&cache_seconds=86400" 
+         onerror="this.onerror=null;this.src='https://activity-graph.herokuapp.com/graph?username=MRaysa&theme=react-dark&bg_color=00000000&hide_border=true';" 
+         alt="Activity Graph" />
+  </a>
+</p>
+
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Masumiub/contributions?format=svg&private=false)  
 
 
