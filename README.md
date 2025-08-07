@@ -68,10 +68,29 @@ Live Link : https://favfreelancer-client.web.app/ <br/>
 
 
 
-<h3 align="left">Used Programming Language:</h3>
+<!-- <h3 align="left">Used Programming Language:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaber4770&show_icons=true&locale=en&layout=compact" alt="jaber4770" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Masumiub&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Masumiub&show_icons=true)  -->
+
+<!-- Dynamic Stats Grid with Cache Busting -->
+<p align="center">
+  <a href="https://github.com/Masumiub">
+    <!-- Main Stats with forced cache refresh -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Masumiub&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true&cache_seconds=86400&random=1" />
+    <!-- Top Languages with proper exclusion -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRaysa&layout=compact&theme=radical&bg_color=00000000&hide_border=true&langs_count=6&exclude_repo=github-readme-stats,anuraghazra.github.io" />
+  </a>
+</p>
+
+<!-- Streak Stats with Dual Source Fallback -->
+<p align="center">
+  <a href="https://github.com/Masumiub">
+    <img src="https://streak-stats.demolab.com?user=Masumiub&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&fire=FF6F00&ring=0ABAB5&currStreakLabel=0ABAB5&cache_seconds=86400"
+         onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuapp.com?user=MRaysa&theme=radical&hide_border=true&background=00000000';" 
+         alt="GitHub Streak" />
+  </a>
+</p>
 
 
 <!-- Activity Graph with Fallback -->
