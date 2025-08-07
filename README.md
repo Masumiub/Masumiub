@@ -51,6 +51,8 @@ Live Link : https://favfreelancer-client.web.app/ <br/>
 
 ### 🔭 I’m currently working on a E-Commerce Website [https://glowbyyana-690b6.web.app/]
 ### 🌱 I’m currently learning React JS & Next JS
+### 🌱 I’m looking - for Frontend Development Job and Dynamic Teams to share idea.
+### 🌱 I'm trying - to help people learn web development
 ### 📫 Reach me: **musfiquemasum@gmail.com**
 
 ## 
