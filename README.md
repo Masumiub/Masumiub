@@ -54,8 +54,7 @@ Live Link : https://favfreelancer-client.web.app/ <br/>
 ### 📫 Reach me: **musfiquemasum@gmail.com**
 
 ## 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 
 
 
